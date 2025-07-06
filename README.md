@@ -1,4 +1,4 @@
-# 🧪 Apiium App Automation Test
+# 🧪 Appium App Automation Test
 
 Project ini adalah bagian dari **Digital Skola kelas QA Engineer batch 10**.  
 Dalam project ini berisikan **automation testing** pada aplikasi [API DEMOS](https://github.com/appium/appium/tree/master/packages/appium/sample-code/apps) menggunakan **Appium** dan **Chai** sebagai framework testing, dengan fokus pada fungsionalitas pad aplikasi Android.
