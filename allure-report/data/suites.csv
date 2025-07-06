@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7921","Input Element","","Sun Jul 06 17:13:55 WIB 2025","passed","Sun Jul 06 17:14:02 WIB 2025","","Appium Test App","",""
+"","2552","Click Element","","Sun Jul 06 17:13:50 WIB 2025","passed","Sun Jul 06 17:13:53 WIB 2025","","Appium Test App","",""
+"","6478","Swipe Element hard-Coded","","Sun Jul 06 17:14:07 WIB 2025","passed","Sun Jul 06 17:14:14 WIB 2025","","Appium Test App","",""
+"","1523","Memastikan App bisa terbuka dan elemen tersedia","","Sun Jul 06 17:14:04 WIB 2025","passed","Sun Jul 06 17:14:06 WIB 2025","","Appium Test App","",""
+"","7654","Scroll Down","","Sun Jul 06 17:14:16 WIB 2025","passed","Sun Jul 06 17:14:23 WIB 2025","","Appium Test App","",""
